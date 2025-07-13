@@ -70,7 +70,6 @@ Próximos Passos
 - [ ] Adicionar banco de dados para persistência de dados
 - [ ] Melhorar a interface visual (layout, cores, tipografia)
 - [ ] Adicionar sistema de favoritos
-- [ ] Criar versão para dispositivos móveis
 - [ ] Implementar sugestões automáticas baseadas em eventos ou clima
 
 ---
